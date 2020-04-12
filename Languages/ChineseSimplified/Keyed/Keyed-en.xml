@@ -34,6 +34,10 @@
   <MedicalTab.ShowSurgeryOptionsThat>显示{0}{1}的手术</MedicalTab.ShowSurgeryOptionsThat>
   <MedicalTab.ScheduledProcedures>已安排手术：</MedicalTab.ScheduledProcedures>
 
+  <!-- filter  -->
+  <MedicalTab.FilterHealthyOn>不完全健康的殖民者\n\n单击显示所有殖民者。</MedicalTab.FilterHealthyOn>
+  <MedicalTab.FilterHealthyOff>所有殖民者\n\n单击显示不完全健康的殖民者。</MedicalTab.FilterHealthyOff>
+
   <!-- settings -->
   <MedicalTab.SuggestDrugs>成瘾品与药物施用建议</MedicalTab.SuggestDrugs>
   <MedicalTab.SuggestDrugsTip>是否在医疗手术建议列表中显示成瘾品与药物。</MedicalTab.SuggestDrugsTip>
